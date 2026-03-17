@@ -13,15 +13,6 @@ Language: Python
 Framework: Streamlit (>= 1.34.0) 
 PDF Processing: pdfplumber (>= 0.10.2) 
 
-Installation & Setup
-Clone the Repository:
-Bash
-git clone https://github.com/YOUR_USERNAME/career-coach-assistant.git
-cd career-coach-assistant
-Create a Virtual Environment (Optional but Recommended):
-Bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install Dependencies:
 Bash
 pip install -r requirements.txt
